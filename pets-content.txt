@@ -1,0 +1,17 @@
+
+Use the instructions and content in this file along with the image in the '/images' folder to put together your website.
+
+===================================================
+
+9a. Add the below text content into each of the 4 divs as specified.
+9b. The first line of each div's text content should be a bolded <h6> header, while each separated text block should be a paragraph.
+
+
+
+<div> #4:
+	Caring for Roxie, the grape-loving dog
+
+	The staff at Wisdom worked tirelessly to determine why our three-year old Labrador Retriever, Roxie, started going into sudden kidney failure. They stabilized her and provided fluids until her kidneys were again functioning normal, but it was still a mystery as to what caused her health to decline so quickly.
+
+	The vet noted our address on Roxie’s chart, and asked if we lived on one of the orchards in the vicinity, and if Roxie had a habit of eating grapes off the vine. Our answer was “of course – she’s a Labrador.” That day we learned just how toxic grapes and raisins are to pets, and Roxie is no longer allowed to roam unattended in the orchard.
+---------------------------
